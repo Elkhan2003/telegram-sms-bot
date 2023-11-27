@@ -1,12 +1,11 @@
-[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
+<div align="center">
+<!-- <img src="https://elcho911.netlify.app/Elkhan2003-icons/Front-end-DevX.gif"/> -->
+<!-- <img src="https://elcho911.netlify.app/Elkhan2003-icons/madara.gif"/> -->
+<!-- <img src="https://elcho911.netlify.app/Elkhan2003-icons/madara-v2.gif"/> -->
+<img width="800px" height="125px" src="https://elcho911.netlify.app/Elkhan2003-icons/elcho.gif"/>
+</div>
 
-  Fast, unopinionated, minimalist web framework for [Node.js](http://nodejs.org).
-
-  [![NPM Version][npm-version-image]][npm-url]
-  [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
-  [![NPM Downloads][npm-downloads-image]][npm-downloads-url]
-
-# Send SMS to Telegram
+# Telegram SMS bot
 
 ## Instructions
 
@@ -15,9 +14,6 @@ This is a [Node.js](https://nodejs.org/en/) module available through the
 
 Before installing, [download and install Node.js](https://nodejs.org/en/download/).
 Node.js 0.10 or higher is required.
-
-If this is a brand new project, make sure to create a `package.json` first with
-the [`npm init` command](https://docs.npmjs.com/creating-a-package-json-file).
 
 Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):

@@ -27,7 +27,7 @@ for more information.
 
 ## Stating bot
 
-1. Open Telegram and search for @botFather.
+1. Open Telegram and search for `@botFather`.
 2. Send the following commands to create a new bot:
     - `/newbot`: Create a new bot.
     - Provide a name for the bot, for example: Elcho911 (you can use your own name).
@@ -37,7 +37,7 @@ for more information.
 5. Create a Telegram channel for your messages.
 6. Invite your bot (@elcho911_bot) to your Telegram channel and grant it administrative rights.
 7. Find the ID of your Telegram channel:
-    - Use the @getmyid_bot by sending any message from your channel and forwarding it to @getmyid_bot.
+    - Use the `@getmyid_bot` by sending any message from your channel and forwarding it to @getmyid_bot.
     - Note the `CHAT_ID` in the response (e.g., -235********42).
 8. Save the `CHAT_ID` in the `.env` file under the section `TELEGRAM_CHAT_ID=`.
 9. Run your project using `npm run dev`, and you should see a message in the console:

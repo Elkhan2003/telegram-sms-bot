@@ -40,7 +40,7 @@ for more information.
     - Use the @getmyid_bot by sending any message from your channel and forwarding it to @getmyid_bot.
     - Note the `CHAT_ID` in the response (e.g., -235********42).
 8. Save the `CHAT_ID` in the `.env` file under the section `TELEGRAM_CHAT_ID=`.
-9. Start your project, and you should see a message in the console: 
+9. Run your project using `npm run dev`, and you should see a message in the console:
     ```ts
     server running at: http://localhost:5000
     ```

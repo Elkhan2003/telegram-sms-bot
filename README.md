@@ -57,7 +57,7 @@ for more information.
     	"name": "Elcho911",
     	"email": "boss.armsport@gmail.com",
     	"subject": "WeDevX",
-    	"message": "Hello, Elcho911"
+    	"message": "Hello, Elcho911 👋🏻"
     }
     ```
 12. You should receive the following JSON response:
